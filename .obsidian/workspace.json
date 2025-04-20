@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 229.5
   },
   "right": {
     "id": "6188e81baa71ef27",
@@ -153,8 +153,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6b9c03c88ec82ee4",
+  "active": "6d9018f633756402",
   "lastOpenFiles": [
+    "few-shot learning",
     "README.md",
     "sota-models.md",
     "alnormaly detection/sota-models.md",
